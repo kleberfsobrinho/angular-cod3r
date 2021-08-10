@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Samsung S20+",
       "price": 5.89
+    },
+    {
+      "name": "Livro",
+      "price": "15.99",
+      "id": 4
     }
   ]
 }
