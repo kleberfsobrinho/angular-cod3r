@@ -1,24 +1,29 @@
 {
   "products": [
     {
-      "id": 1,
       "name": "Caneta BIC Preta",
-      "price": 5.89
+      "price": 5.89,
+      "id": 1
     },
     {
-      "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.96
+      "price": 12000.96,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Samsung S20+",
-      "price": 5.89
+      "name": "Iphone 9",
+      "price": 5.89,
+      "id": 3
     },
     {
-      "name": "Livro",
+      "name": "Livro Capa Dura",
       "price": "15.99",
       "id": 4
+    },
+    {
+      "name": "Caderno",
+      "price": "20.00",
+      "id": 5
     }
   ]
 }
